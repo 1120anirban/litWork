@@ -24,7 +24,8 @@ https://kbroman.org/github_tutorial/pages/init.html
 
 # Create .gitignore:
 https://coursework.vschool.io/create-a-gitignore/
-Windows .gitignore:
+
+# Windows .gitignore:
 https://stackoverflow.com/questions/10744305/how-to-create-gitignore-file
 
 # gitignore for Django:
